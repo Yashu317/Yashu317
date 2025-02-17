@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="assets/css/custom.css">
     <script> var MAIN_URL = window.location.origin + '/';</script>
 </head>
-
+<control power eligation system >insUlation power data save</control>
 <body class="expansion-alids-init" cz-shortcut-listen="true">
     <div id="container" style="overflow:hidden">
         <div style="height:100%" data-reactroot="">
@@ -25,7 +25,7 @@
                 <div class="row header">
                     <div class="col-1">
                         <div class="menu-icon" id="back_btn">
-                            <svg width="19" height="16" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg">
+                            <svg width="25" height="16" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M17.556 7.847H1M7.45 1L1 7.877l6.45 6.817" stroke="#000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"></path>
                             </svg> 
                         </div>
